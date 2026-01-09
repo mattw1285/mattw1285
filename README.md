@@ -33,7 +33,7 @@ Currently interested in data engineering, dev tools and learning how to break pr
 ---
 
 ### Things I'm currently breaking:
-- `pd.DataFrame` caching library **... yes it is an internal tool**
+- `pd.DataFrame` caching library *... yes it is an internal tool*
 - `networkx` modelling
 -  my own edition of adblocker `pi-hole` style
 -  ...literally every form of web dev work I ever touch
