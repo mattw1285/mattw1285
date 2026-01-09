@@ -24,8 +24,8 @@ Things I pretend to know about: 😢
 ---
 
 > "Arthur blinked at the screens and felt he was missing something important"
-
-Douglas Adams - HHTTG
+>
+> Douglas Adams - HHTTG
 
 ---
 
