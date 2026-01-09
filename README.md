@@ -9,7 +9,7 @@ Things I am currently asking ChatGPT about:
 
 | TOPIC | PROGRESS | % |
 | :--- | :--- | :--- |
-| **Rust:** | <progress value="10" max="100"></progress> | 10%
+| **Rust:** | ![10%](https://geps.dev/progress/10) | 10%
 | **Git / Github:** | <progress value="60" max="100"></progress> | 60%
 | **VIM so I can brag about it:** | <progress value="25" max="100"></progress> | 25%
 | **Stopping Procrastinating:** | <progress value="95" max="100"></progress> | 95%
