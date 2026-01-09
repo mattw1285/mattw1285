@@ -4,7 +4,7 @@ A technical analyst pretending to be a dev.
 
 Anything you will find in here comes from the inner workings of my mind, so lord help us all. I aim to look back on all the work here and for it to be terrible. After all, how else would I validate that I had learnt anything!
 
-Currently interested in data engineering, dev tools and learning how to break prod!
+Currently interested in data engineering, dev tools and learning how to break prod in new and imaginitive ways!
 
 ---
 
