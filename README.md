@@ -49,6 +49,7 @@ Currently interested in data, dev tools and learning how to break prod in new an
 | **TOPIC** | **PROGRESS** | **PERCENT** |
 | :--- | :--- | :--- |
 | Git / Github | ![60%](https://geps.dev/progress/60) | 60%
+| Bash | ![70%](https://geps.dev/progress/70) | 70%
 | Rust | ![1%](https://geps.dev/progress/1) | 1%
 | VIM so I can brag | ![20%](https://geps.dev/progress/20) | 20%
 | **How To Stop Procrastinating...** | ![95%](https://geps.dev/progress/95) | 95%
