@@ -4,7 +4,7 @@ A technical analyst pretending to be a dev.
 
 Anything you will find in here comes from the inner workings of my mind, so lord help us all. I aim to look back on all the work here and for it to be terrible. After all, how else would I validate that I had learnt anything!
 
-Currently interested in data, dev tools and learning how to break prod in new and imaginitive ways!
+Currently interested in data, dev tools and learning how to break everything in new and imaginitive ways!
 
 ---
 
@@ -24,11 +24,9 @@ Currently interested in data, dev tools and learning how to break prod in new an
 ---
 
 ## Things I'm currently breaking:
-- `df_haste` python lib... *yes it is an internal tool*
+- `DfHaste` python lib... *yes it is an internal tool*
+- `PlotLite` GIS editor
 - all things cartography
-- `networkx` modelling
--  my own edition of adblocker `pi-hole` style
--  migration to postgresql
 -  ...literally every form of web dev work I ever touch
 
 ---
@@ -50,7 +48,7 @@ Currently interested in data, dev tools and learning how to break prod in new an
 | :--- | :--- | :--- |
 | Git / Github | ![60%](https://geps.dev/progress/60) | 60%
 | Bash | ![70%](https://geps.dev/progress/70) | 70%
-| Rust | ![1%](https://geps.dev/progress/1) | 1%
+| Rust | ![1%](https://geps.dev/progress/-1) | -1%
 | VIM so I can brag | ![20%](https://geps.dev/progress/20) | 20%
 | **How To Stop Procrastinating...** | ![95%](https://geps.dev/progress/95) | 95%
 
