@@ -28,9 +28,8 @@ I keep telling myself I will learn a low level language. I am yet to deliver wit
 
 ---
 
-```
-"The best thing about a boolean is even if you're wrong, you're only off by a bit."
-```
+> "The best thing about a boolean is even if you're wrong, you're only off by a bit."
+
 ---
 
 ## Things I'm Currently Breaking:
@@ -40,9 +39,7 @@ I keep telling myself I will learn a low level language. I am yet to deliver wit
 
 ---
 
-```
-"Arthur blinked at the screens and felt he was missing something important." - Douglas Adams, HHGTTG
-```
+> "Arthur blinked at the screens and felt he was missing something important." - Douglas Adams, HHGTTG
 
 ---
 
